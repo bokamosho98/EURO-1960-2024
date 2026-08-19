@@ -59,10 +59,18 @@ This lets PivotTables pull fields from all three source tables simultaneously wi
 - Highest attendance ever: 2,681,288 (single tournament)
 - Most successful country: Spain (most tournament wins)
 
+<img width="1891" height="776" alt="football dashboard" src="https://github.com/user-attachments/assets/78f5124d-ace4-42f8-91ec-44a5e8678fec" />
+
+
 **Charts**
 1. **Goals per tournament** — line chart, year (x-axis) vs total goals (y-axis). Shows how attacking output has shifted tournament to tournament.
 2. **Attendance growth** — chart tracking total/average attendance by year. Shows the scale of growth in the tournament's popularity from 1960 to 2024.
 3. **Tournament wins by country** — bar chart, ranks countries by number of Euros titles. Spain leads, ahead of West Germany/Germany.
+
+   <img width="1891" height="765" alt="football dashboard number 2" src="https://github.com/user-attachments/assets/4d29768d-db74-4023-a1a3-93acaae1b578" />
+
+<img width="441" height="349" alt="football dashboard 3" src="https://github.com/user-attachments/assets/9b455225-1c2f-4854-ae9b-e449572e809a" />
+
 
 **PivotTables built**
 - Year + Winner (rows) → Sum of Goals (values)
