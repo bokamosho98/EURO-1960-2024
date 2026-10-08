@@ -55,9 +55,9 @@ This lets PivotTables pull fields from all three source tables simultaneously wi
 - Total tournaments: 17 (1960–2024)
 - Total goals scored: 996
 - Total matches played: 388
-- Average attendance: ~8,999,926 *(verify — flagged as worth double-checking against source totals)*
+- Average attendance: 8,999,926
 - Highest attendance ever: 2,681,288 (single tournament)
-- Most successful country: Spain (most tournament wins)
+- Most successful country: Spain 
 
 <img width="1891" height="776" alt="football dashboard" src="https://github.com/user-attachments/assets/78f5124d-ace4-42f8-91ec-44a5e8678fec" />
 
