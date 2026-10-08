@@ -94,4 +94,4 @@ Two additional datasets — `qualifying.csv` and `friendlies.csv` — sit in the
 This phase is not required for the core dashboard to be considered complete — it's a value-add extension.
 
 ---
-*Project by Bokamosho — self-taught data analyst, Bloemfontein, South Africa.*
+*Project by Bokamosho — self-taught data analyst, Johannesburg, South Africa.*
